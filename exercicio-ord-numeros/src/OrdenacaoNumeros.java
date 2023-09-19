@@ -43,10 +43,4 @@ public class OrdenacaoNumeros implements Comparable<Integer> {
         System.out.println("Lista em ordem crescente: " + numeros.ordenarCrescente());
         System.out.println("Lista em ordem decrescente: " + numeros.ordenarDecrescente());
     }
-
-    
-
-    
-
-    
 }
