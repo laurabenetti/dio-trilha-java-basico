@@ -132,7 +132,4 @@ public class ListaTarefa {
         listaTarefa.limparListaTarefa();
         listaTarefa.exibirTarefa();
     }
-
-
-    
 }
